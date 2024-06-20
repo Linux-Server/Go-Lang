@@ -1,9 +1,9 @@
-package main
+// package main
 
-import "fmt"
+// import "fmt"
 
-func main() {
-	const name = 10 //untyped
-	var calc = name
-	fmt.Println("The value is  : ", calc)
-}
+// func main() {
+// 	const name = 10 //untyped
+// 	var calc = name
+// 	fmt.Println("The value is  : ", calc)
+// }
