@@ -6,29 +6,29 @@ func main() {
 
 	// Array
 
-	// var testArr [5]int
-	// _ = testArr
-	// // create an array
-	// myArr := [...]int{1, 2, 3}
-	// _ = myArr
+	var testArr [5]int
+	_ = testArr
+	// create an array
+	myArr := [...]int{1, 2, 3}
+	_ = myArr
 
-	// fmt.Println("The array is : ", myArr)
+	fmt.Println("The array is : ", myArr)
 
-	// a := [4]int{1, 2, 3, 4}
-	// fmt.Println(a)
-	// a = [...]int{100, 2: 99, 400}
-	// fmt.Println(a)
+	a := [4]int{1, 2, 3, 4}
+	fmt.Println(a)
+	a = [...]int{100, 2: 99, 400}
+	fmt.Println(a)
 
-	// var twoD [2][3]int
-	// for i := 0; i < 2; i++ {
-	// 	for j := 0; j < 3; j++ {
-	// 		twoD[i][j] = i + j
-	// 	}
-	// }
-	// fmt.Println("2d: ", twoD)
+	var twoD [2][3]int
+	for i := 0; i < 2; i++ {
+		for j := 0; j < 3; j++ {
+			twoD[i][j] = i + j
+		}
+	}
+	fmt.Println("2d: ", twoD)
 
-	// twoD = [2][3]int{{0, 1, 20}, {1, 2, 30}}
-	// fmt.Println("2d: ", twoD)
+	twoD = [2][3]int{{0, 1, 20}, {1, 2, 30}}
+	fmt.Println("2d: ", twoD)
 
 	// Slices
 
