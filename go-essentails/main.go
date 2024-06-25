@@ -1,8 +1,11 @@
 package main
 
-import "fmt"
-
 func main() {
-	fmt.Println("hello go")
-	varaidic()
+	// fmt.Println("hello go")
+	// varaidic()
+	// mains()
+	// pointers()
+	// string_runes()
+	structs()
+
 }
