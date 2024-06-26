@@ -6,6 +6,8 @@ func main() {
 	// mains()
 	// pointers()
 	// string_runes()
-	structs()
+	// structs()
+	// methods()
+	methods_check()
 
 }

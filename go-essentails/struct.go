@@ -13,6 +13,9 @@ func structs() {
 	fmt.Println(person_one, person_two)
 
 	fmt.Println(*call_person("alice", 33))
+
+	var my_name Check = "sam"
+	_ = my_name
 }
 
 type Person struct {
@@ -23,3 +26,5 @@ type Person struct {
 func call_person(name string, age int) *Person {
 	return &Person{name, age}
 }
+
+type Check string
