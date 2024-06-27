@@ -8,6 +8,7 @@ func main() {
 	// string_runes()
 	// structs()
 	// methods()
-	methods_check()
+	// methods_check()
+	method_one()
 
 }
