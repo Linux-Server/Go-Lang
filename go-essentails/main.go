@@ -9,6 +9,7 @@ func main() {
 	// structs()
 	// methods()
 	// methods_check()
-	method_one()
+	// method_one()
+	Interfaces()
 
 }
