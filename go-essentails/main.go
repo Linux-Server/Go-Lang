@@ -10,6 +10,7 @@ func main() {
 	// methods()
 	// methods_check()
 	// method_one()
-	Interfaces()
+	// Interfaces()
+	my_enum()
 
 }
