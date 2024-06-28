@@ -12,6 +12,7 @@ func main() {
 	// method_one()
 	// Interfaces()
 	// my_enum()
-	struct_embed()
+	// struct_embed()
+	mygeneric()
 
 }
