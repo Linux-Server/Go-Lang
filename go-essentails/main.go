@@ -11,6 +11,7 @@ func main() {
 	// methods_check()
 	// method_one()
 	// Interfaces()
-	my_enum()
+	// my_enum()
+	struct_embed()
 
 }
